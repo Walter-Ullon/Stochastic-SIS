@@ -9,6 +9,7 @@ fileName = 'SIS_seed6-N30.csv';
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%  Gillespie SIS  v3  %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
+% MAIN SIMULATION FILE
 % This version captures the extinction time, plus it counts the number of
 % times the infected population has gone extinct.
 
