@@ -13,3 +13,5 @@ The simulations found herein were accomplished by employing Gillespie's algorith
 Gillespie_SIS_V3 is the main simulation file. It plots the results of the simulation and allows the user to "pulse" the population at a given point.
 
 Gillespie_SIS_V6 is similar to V3, but only used to generate a predetermined number of time series.
+
+Gillespie_SIS_V7 is similar to V3, however, the pulse occurs when autocorrelation values reach a statistical threshold. This is accomplished by reading from .csv files containing said values (imported from R).
