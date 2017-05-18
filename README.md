@@ -15,3 +15,5 @@ Gillespie_SIS_V3 is the main simulation file. It plots the results of the simula
 Gillespie_SIS_V6 is similar to V3, but only used to generate a predetermined number of time series.
 
 Gillespie_SIS_V7 is similar to V3, however, the pulse occurs when autocorrelation values reach a statistical threshold. This is accomplished by reading from .csv files containing said values (imported from R).
+
+Gillespie_SIS_V5 is a FORTRAN version of V3 without the implementaion of control measures.
