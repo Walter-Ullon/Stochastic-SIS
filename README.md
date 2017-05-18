@@ -8,3 +8,8 @@ The goal of said research was to explore the theory of "Early Warning Signals" a
 The model chosen and implemented (in both MATLAB and FORTRAN) in the code found in this repository follow the SIS (susceptible infected susceptible) epidemic model.
 
 The simulations found herein were accomplished by employing Gillespie's algorithm to simulate stochastic epidemiological data.
+
+-----------------------------------------------------------------------------------------------------------------------------
+Gillespie_SIS_V3 is the main simulation file. It plots the results of the simulation and allows the user to "pulse" the population at a given point.
+
+Gillespie_SIS_V6 is similar to V3, but only used to generate a predetermined number of time series.
