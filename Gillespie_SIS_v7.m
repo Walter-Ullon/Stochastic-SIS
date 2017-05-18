@@ -5,7 +5,7 @@
 % the threshold is met. Said threshold is comprised of the autocorrelation
 % output supplied by the EWS analysis in R. Results from said analysis are
 % saved in CSV files which are then read by this program and compared in
-% order to ascertain whether threshold has been met. The resuldt from the
+% order to ascertain whether threshold has been met. The result from the
 % perturbation trials are then saved into a CSV file for further analysis.
 
 
