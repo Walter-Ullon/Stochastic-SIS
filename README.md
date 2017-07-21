@@ -1,4 +1,4 @@
-# Gillespie-SIS
+# Stochastic-SIS
 SIS Epidemic model simulation with Gillespie's algorithm (MATLAB)
 
 These files were created for academic research performed under the supervision of Dr. Eric Forgoston at Montclair State University, Department of Mathematical Sciences.
